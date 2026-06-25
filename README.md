@@ -24,8 +24,9 @@ Hi, I'm Steph! I'm a cybersecurity professional currently studying Identity and 
 
 ## 🌱 Currently Learning 
 
-- [Idenitity and Access Management 
+- Idenitity and Access Management 
 
+<!--
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -38,6 +39,7 @@ Hi, I'm Steph! I'm a cybersecurity professional currently studying Identity and 
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
+-->
 
 #### Programming & Automation
 <p>
