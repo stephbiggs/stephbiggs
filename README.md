@@ -17,11 +17,10 @@ Hi, I'm Steph! I'm a cybersecurity professional currently studying Identity and 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username  ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
 
-## 🔭 What I'm Currently Working On 
+## 🔭 What I'm Currently Working On
 
-- **Project A:** Azure Entra ID Identity and Access Management
-- **Project B:** Okta SAML Integration
-  
+* **<a href="https://github.com/yourusername/project-a">Azure Entra ID Identity and Access Management</a>**
+* **<a href="https://github.com/yourusername/project-b">Okta SAML Integration</a>**
 
 ## 🌱 Currently Learning 
 
