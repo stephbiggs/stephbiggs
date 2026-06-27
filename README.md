@@ -19,7 +19,7 @@ Hi, I'm Steph! I'm a cybersecurity professional currently studying Identity and 
 
 ## 🔭 What I'm Currently Working On
 
-* **<a href="https://github.com/yourusername/project-a">Azure Entra ID Identity and Access Management</a>**
+* **<a href="https://github.com/stephbiggs/Azure-Entra-ID-and-Access-Management">Azure Entra ID Identity and Access Management</a>**
 * **<a href="https://github.com/yourusername/project-b">Okta SAML Integration</a>**
 
 ## 🌱 Currently Learning 
