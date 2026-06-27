@@ -24,5 +24,5 @@ Hi, I'm Steph! I'm a cybersecurity professional currently studying Identity and 
 
 ## 🌱 Currently Learning 
 
-- Idenitity and Access Management 
+- Identity and Access Management 
 
